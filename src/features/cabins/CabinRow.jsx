@@ -1,5 +1,5 @@
 import styled from "styled-components";
-import { formatCurrency } from "../../../../fast-react-pizza/src/utils/helpers";
+import { formatCurrency } from "../../utils/helpers";
 import CreateCabinForm from "./CreateCabinForm";
 import { useDeleteCabin } from "./useDeleteCabin";
 import { HiPencil, HiSquare2Stack, HiTrash } from "react-icons/hi2";
